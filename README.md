@@ -12,13 +12,7 @@ MiMercadito (Nombre no oficial) es un software en planificación por estudiantes
 
   ## Licencia 📄
 
-Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
-Que establece:
-
-Usted es libre de:
-Compartir — copiar y redistribuir el material en cualquier medio o formato
-Adaptar — remezclar, transformar y construir a partir del material
-La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
+La Licencia Pública General GNU Affero v3.0 (AGPL-3.0) permite la distribución del código fuente completo y exige que las obras derivadas se compartan bajo la misma licencia. Los contribuyentes conceden derechos de patente, y al proporcionar servicios en red con versiones modificadas, se requiere la disponibilidad pública del código fuente.
 
 ## Enlaces de interés 👀
 
