@@ -2,6 +2,10 @@
 MiMercadito (Nombre no oficial) es un software en planificación por estudiantes de la Universidad Don Bosco.
 
 ## Herramientas 
+* Tailwind CSS
+* HTML5
+* PHP Laravel
+* Laragon 
 
 ## Autores ✒️
 
